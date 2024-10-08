@@ -70,3 +70,4 @@ Active users are displayed using a simple list managed by the WebSocket server. 
 To ensure scalability and performance, the backend server is optimized for handling concurrent WebSocket connections using clustering techniques or load balancing.
 
 # whiteboard
+# white
